@@ -1,1 +1,1 @@
-# projectPython_asciiArtGenerator
+# ASCII Art Generator
