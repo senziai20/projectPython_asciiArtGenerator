@@ -46,7 +46,7 @@ To generate ASCII art from an image, follow these steps:
 bash
 
 Copy code
-`python generate_ascii.py --image input/your-image.jpg`
+`python3 generascii.py --image input/your-image.jpg`
 
 **3. Output:** The ASCII art will be saved in both `output/ascii_image.png` and `output/ascii_text.txt.`
 
