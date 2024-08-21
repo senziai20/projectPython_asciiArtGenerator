@@ -19,7 +19,7 @@ bash
 
 Copy code
 
-`git clone https://github.com/your-username/ascii-art-generator.git`
+`git clone https://github.com/senziai20/projectPython_asciiArtGenerator.git`
 
 **2. Navigate to the Project Directory:**
 
@@ -27,7 +27,7 @@ bash
 
 Copy code
 
-`cd ascii-art-generator`
+`cd projectPython_asciiArtGenerator`
 
 **3. Install Required Packages:**
 
