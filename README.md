@@ -18,7 +18,6 @@ To run this project locally, follow these steps:
 bash
 
 Copy code
-
 `git clone https://github.com/senziai20/projectPython_asciiArtGenerator.git`
 
 **2. Navigate to the Project Directory:**
@@ -26,7 +25,6 @@ Copy code
 bash
 
 Copy code
-
 `cd projectPython_asciiArtGenerator`
 
 **3. Install Required Packages:**
@@ -48,7 +46,6 @@ To generate ASCII art from an image, follow these steps:
 bash
 
 Copy code
-
 `python generate_ascii.py --image input/your-image.jpg`
 
 **3. Output:** The ASCII art will be saved in both `output/ascii_image.png` and `output/ascii_text.txt.`
